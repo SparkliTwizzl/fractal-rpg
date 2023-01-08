@@ -1,3 +1,33 @@
+# version 0.3.0.0
+
+## Squishy Meatloaf | Seductive Insect
+
+2020-12-02
+
+### new features
+
+- added Skill Specialties and Skill Specialties Sheet
+- added Traits and Traits Sheet
+- added printable Character Sheet
+- added Wallet to Character Sheet
+- added Magic Definitions Sheet
+- added combat rules
+- added Rankings:
+  - Physical: Size, Mass, Strength
+  - Mental: Wit
+  - Spiritual: Prowess
+  - items: Grade
+
+### rule changes
+
+- reduced Skill Points per Level from 5 to 3
+- reduced Vigor, Sanity, and Essence maximums from [50 + (50 * Level)] to [50 * Level]
+
+### materials changes
+
+- redesigned Character Sheet
+
+---
 # version 0.2.0.0
 
 ## Squishy Meatloaf | Diet Halfling
