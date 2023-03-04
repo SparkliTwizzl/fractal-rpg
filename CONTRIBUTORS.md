@@ -1,3 +1,13 @@
+# v~1.0.0.0
+
+- SparkliTwizzl
+- BrizzlyBear
+- DrDude42
+- Magiya
+- Scooby_Dude
+- Voidgrove
+
+---
 # v0.4.0.0
 
 - SparkliTwizzl
