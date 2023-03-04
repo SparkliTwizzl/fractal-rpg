@@ -4,6 +4,7 @@
 
 2023-03-03
 
+---
 ### terminology changes
 
 - Skills
@@ -30,6 +31,24 @@
 - Character Sheet
   - renamed Pocket Universe to Pocket Dimension
   - renamed Class field to Faction
+
+### new features
+
+- materials
+  - added logo
+  - added rulebook document and moved combat rules and magic definitions from materials spreadsheet
+  - added Skills Sheet and moved Skill Tree from Character Sheet
+  - added Scaling Reference Sheet
+  - added Stat Scaling Calculator
+  - added printable Skill Specialties Sheet
+  - added automatic tallying of Skill Specialties' allocated Skill Points to Tier 3 Skill labels on digital Skills Sheet
+  - added field for Bonus Skill Points to Skills and Skill Specialties Sheets
+  - added "Base %" help text to Skills and Skill Specialties Sheets to help with calculating Skill Modifiers
+- rules
+  - added rules for Vigor, Sanity and Essence.
+  - added rules for Protections.
+  - added rules for Skill Points and Skill Point allocation.
+  - added rules for Spiritual Skill use depleting VP, SP, or EP.
 
 ### rule changes
 
@@ -69,24 +88,6 @@
 
 - removed Magic Definitions Sheet
 
-### new features
-
-- materials
-  - added logo
-  - added rulebook document and moved combat rules and magic definitions from materials spreadsheet
-  - added Skills Sheet and moved Skill Tree from Character Sheet
-  - added Scaling Reference Sheet
-  - added Stat Scaling Calculator
-  - added printable Skill Specialties Sheet
-  - added automatic tallying of Skill Specialties' allocated Skill Points to Tier 3 Skill labels on digital Skills Sheet
-  - added field for Bonus Skill Points to Skills and Skill Specialties Sheets
-  - added "Base %" help text to Skills and Skill Specialties Sheets to help with calculating Skill Modifiers
-- rules
-  - added rules for Vigor, Sanity and Essence.
-  - added rules for Protections.
-  - added rules for Skill Points and Skill Point allocation.
-  - added rules for Spiritual Skill use depleting VP, SP, or EP.
-
 ---
 # version 0.3.0.0
 
@@ -94,6 +95,7 @@
 
 2020-12-02
 
+---
 ### new features
 
 - added Skill Specialties and Skill Specialties Sheet
