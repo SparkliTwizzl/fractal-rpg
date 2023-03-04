@@ -62,9 +62,13 @@ EXAMPLES:
 
 ---
 
+<p style="text-align: center;">
+
 License
 2019 - 2023 SparkliTwizzl
 
 Fractal RPG is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
 You are free to do whatever you want with the system, as long as you abide by the terms of the license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+</p>
