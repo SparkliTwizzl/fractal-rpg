@@ -1,6 +1,7 @@
-<image align="center" width="200" src="https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png"> # Fractal RPG
+<div align="center"><image width="200" src="https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png"></div>
 
-An overcomplicated RPG system created by SparkliTwizzl
+<h1 align="center">Fractal RPG</h1>
+<h2 align="center">An overcomplicated RPG system created by SparkliTwizzl</h2>
 
 See [license](LICENSE)
 
