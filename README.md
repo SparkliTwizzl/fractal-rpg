@@ -1,22 +1,36 @@
-![Fractal RPG logo](https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png =x200)
+<image align="center" width="200" src="https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png">
 
-Fractal RPG
+# Fractal RPG
 An overcomplicated RPG system created by SparkliTwizzl
 
+See [license](LICENSE)
+
+- [Overview](#overview)
+- [Discord server](#discord-server)
+- [Versions](#versions)
+  - [Version numbers / nicknames](#version-numbers--nicknames)
+  - [In development](#in-development)
+ 
+
 ---
-Overview
+## Overview
 Fractal RPG is a work in progress system themed around time travel. Currently, you play as a time police agent working to preserve the integrity of history. The party is given a historic event that they must make sure happens more or less how historic accounts recorded it. The specific details of how they achieve this is up to them.
 
 ---
-Discord server
+## Discord server
 If you like, you can join the official [Discord server](https://discord.gg/FMzqKDX).
 Ask questions, leave ideas and suggestions, or just socialize.
 
 ---
-Versions
+## Versions
+
+See below for an explanation of the version numbering and naming scheme.
+
+- 0th Edition
+	- 
 
 ---
-Version numbers / nicknames
+### Version numbers / nicknames
 
 Version number format:
 LONG: Nth Edition, Nth Revision, Nth Update, Nth Fix
@@ -37,7 +51,7 @@ Update is incremented for minor changes, such as a rule clarification or a termi
 Fix is incremented when problems are fixed, such as a digital materials bug or a rule loophole.
 
 ---
-In development
+### In development
 Feel free to leave ideas and suggestions for the system in either the [GitHub issues board](https://github.com/SparkliTwizzl/fractal-rpg/issues) or the [Discord server](https://discord.gg/FMzqKDX).
 
 Tentative version numbers are prefixed with a tilde:
@@ -59,16 +73,3 @@ EXAMPLES:
 - An unfinished version of 3rd Edition, 0th Revision, 0th Update released on Aug 17th, 2015 would be called "v3.~150817 (3rd Edition unfinished 2015-08-17)"
 - An unfinished version of 9th Edition, 4th Revision, 0th Update released on Feb 24th, 2028 would be called "v9.4.~280224 (9th Edition 4th Revision unfinished 2028-02-24)"
 - An unfinished version of 5th Edition, 0th Revision, 1st Update released on Jan 1st, 2000 would be called "v5.0.1.~000101 (5th Edition 0th Revision 1st Update unfinished 2000-01-01)"
-
----
-
-<p style="text-align: center;">
-
-License
-2019 - 2023 SparkliTwizzl
-
-Fractal RPG is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
-
-You are free to do whatever you want with the system, as long as you abide by the terms of the license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-</p>
