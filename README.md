@@ -1,6 +1,5 @@
-<image align="center" width="200" src="https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png">
+<image align="center" width="200" src="https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png"> # Fractal RPG
 
-# Fractal RPG
 An overcomplicated RPG system created by SparkliTwizzl
 
 See [license](LICENSE)
