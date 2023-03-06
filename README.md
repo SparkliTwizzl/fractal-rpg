@@ -6,12 +6,12 @@
 - [Overview](#overview)
 - [Discord server](#discord-server)
 - [Versions](#versions)
-  - [Version numbers / nicknames](#version-numbers--nicknames)
-  - [In development](#in-development)
- - See [license](LICENSE)
+	- [Version numbers / nicknames](#version-numbers--nicknames)
+	- [In development](#in-development)
+- See [license](LICENSE)
 - See [contributors](CONTRIBUTORS.md)
 - See [changelog](CHANGELOG.md)
- 
+
 ---
 ## Overview
 Fractal RPG is a work in progress system themed around time travel. Currently, you play as a time police agent working to preserve the integrity of history. The party is given a historic event that they must make sure happens more or less how historic accounts recorded it. The specific details of how they achieve this is up to them.
