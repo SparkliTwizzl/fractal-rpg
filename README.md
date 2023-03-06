@@ -1,3 +1,4 @@
+
 <div align="center"><image width="300" src="https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png"></div>
 
 <h1 align="center">Fractal RPG</h1>
@@ -8,8 +9,10 @@
 - [Overview](#overview)
 - [Discord server](#discord-server)
 - [Versions](#versions)
-  - [Version numbers / nicknames](#version-numbers--nicknames)
-  - [In development](#in-development)
+	- [Published versions](#published-versions)
+	- [In-progress versions](#in-progress-versions)
+	- [Version number / nickname schemes](#version-number--nickname-schemes)
+	- [In development](#in-development)
  - See [license](LICENSE)
 - See [contributors](CONTRIBUTORS.md)
 - See [changelog](CHANGELOG.md)
@@ -28,7 +31,15 @@ Ask questions, leave ideas and suggestions, or just socialize.
 ---
 <h1 align="center">Versions</h1>
 
-See below for an explanation of the version numbering and naming scheme.
+Versions are divided into editions, which are subdivided into revisions, then updates, then fixes.<br/>
+Edition is incremented when the core rules are changed.<br/>
+Revision is incremented when features are added or removed or rules are changed.<br/>
+Update is incremented for minor changes, such as a rule clarification or a terminology change.<br/>
+Fix is incremented when problems are fixed, such as a digital materials bug or a rule loophole.
+
+See below for an explanation of the version numbering and naming schemes.
+
+<h3 align="center">Published versions</h3>
 
 - 0th Edition (v0): Squishy Meatloaf
 	- 0th Revision (v0.0): Boring Rock
@@ -37,43 +48,52 @@ See below for an explanation of the version numbering and naming scheme.
 	- 3rd Revision (v0.3): Seductive Insect
 	- 4th Revision (v0.4): Supersonic Vampire
 
-<h3 align="center">Version numbers / nicknames</h3>
+<h3 align="center">In-progress versions</h3>
 
-**Version number format:**<br/>
-*LONG: Nth Edition, Nth Revision, Nth Update, Nth Fix*<br/>
-*SHORT: Edition.Revision.Update.Fix*
+- ~1st Edition (v1): tbd
+	- \~0th Revision (v\~1.0): Pantsless Robot
+
+<h3 align="center">Version number / nickname schemes</h3>
+
+<h4>Version numbers</h4>
+
+LONG: Nth Edition, Nth Revision, Nth Update, Nth Fix<br/>
+SHORT: Edition.Revision.Update.Fix
 
 Revision can be omitted if revision, update, and fix are 0.<br/>
 Update can be omitted if update and fix are 0.<br/>
 Fix can be omitted if it is 0.
 
-Versions are given nicknames to make them easier to refer to.<br/>
-**Version nickname format:**<br/>
-*Edition Nickname | Adjective Adjective Noun (Fix Update Revision)*<br/>
-Edition nickname can be omitted.<br/>
-Fix adjective is not given when fix is 0.
+<h4>Version nicknames</h4>
 
-Edition is incremented when the core rules are changed.<br/>
-Revision is incremented when features are added or removed or rules are changed.<br/>
-Update is incremented for minor changes, such as a rule clarification or a terminology change.<br/>
-Fix is incremented when problems are fixed, such as a digital materials bug or a rule loophole.
+Edition Nickname | Adjective Adjective Noun (Fix Update Revision)
+
+Edition nicknames are independent of revision nicknames, and can be omitted, as all revision nicknames are unique.<br/>
+Revision nicknames follow a pattern, with the revision noun staying consistent across all updates and fixes to that revision (ie, all updates and fixes to a revision called "Cowboy" would retain the word "Cowboy" in their nicknames).<br/>
+The update adjective is changed when an update to a version is published (ie, an update to "Loud Cowboy" might be called "Chaotic Cowboy").<br/>
+For simplicity, no fix adjective is given when the fix is 0. If a fix is published for a version, the fix adjective is  changed (ie, a fix to "Loud Cowboy" might be called "Very Loud Cowboy", and an additional fix might be called "Slightly Loud Cowboy").
 
 <h3 align="center">In development</h3>
 
 Feel free to leave ideas and suggestions for the system in either the [GitHub issues board](https://github.com/SparkliTwizzl/fractal-rpg/issues) or the [Discord server](https://discord.gg/FMzqKDX).
 
-**Tentative version numbers are prefixed with a tilde:**<br/>
-*v~W.X.Y.Z*<br/>
-Tentative version numbers are subject to change
+<h4>In-progress version numbers</h4>
 
-**Unfinished release version number format:**<br/>
-*Edition{.Revision{.Update}}.~YYMMDD*<br/>
+v~W.X.Y.Z<br/>
+In-progress version numbers are prefixed with a tilde and are subject to change.
+
+<h4>Unfinished release version numbers</h4>
+
+Edition.{Revision.{Update}}~YYMMDD
+
 Unfinished versions of fixes are not published, since the changes are so minor.<br/>
-The zero part of the version number (i.e., X.Y.Z.0, X.Y.0.0, X.0.0.0) is replaced by a tilde followed by the date of the unfinished release in ISO 1806:2000 basic truncated format, ie: The 2-digit year, the 2-digit month, and the 2-digit day, with no spaces.
+The zero part of the version number (ie, X.Y.Z.{0}, X.Y.{0.0}, X.{0.0.0}) is replaced by a tilde followed by the date of the unfinished release in ISO 1806:2000 basic truncated format, ie: The 2-digit year, the 2-digit month, and the 2-digit day, with no spaces.
 
-**Unfinished release version nickname format:**<br/>
-*Edition{ Revision{ Update}} unfinished YYYY-MM-DD*<br/>
-Unfinished version are not given nicknames; Instead, the nickname is simply "unfinished", followed by the date of the unfinished release in ISO 1806 extended format, i.e.: The 4-digit year, a dash, the 2-digit month, a dash, and the 2-digit day, with no spaces.
+<h4>Unfinished release version nicknames</h4>
+
+Edition{ Revision{ Update}} unfinished YYYY-MM-DD
+
+Unfinished version are not given nicknames. Instead, the nickname is simply "unfinished", followed by the date of the unfinished release in ISO 1806 extended format, ie: The 4-digit year, a dash, the 2-digit month, a dash, and the 2-digit day, with no spaces.
 
 EXAMPLES:
 
