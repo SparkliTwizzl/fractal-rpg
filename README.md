@@ -3,15 +3,15 @@
 <h1 align="center">Fractal RPG</h1>
 <h2 align="center">An overcomplicated RPG system created by SparkliTwizzl</h2>
 
-See [license](LICENSE)
-
 - [Overview](#overview)
 - [Discord server](#discord-server)
 - [Versions](#versions)
   - [Version numbers / nicknames](#version-numbers--nicknames)
   - [In development](#in-development)
+ - See [license](LICENSE)
+- See [contributors](CONTRIBUTORS.md)
+- See [changelog](CHANGELOG.md)
  
-
 ---
 ## Overview
 Fractal RPG is a work in progress system themed around time travel. Currently, you play as a time police agent working to preserve the integrity of history. The party is given a historic event that they must make sure happens more or less how historic accounts recorded it. The specific details of how they achieve this is up to them.
@@ -26,8 +26,12 @@ Ask questions, leave ideas and suggestions, or just socialize.
 
 See below for an explanation of the version numbering and naming scheme.
 
-- 0th Edition
-	- 
+- 0th Edition (v0): Squishy Meatloaf
+	- 0th Revision (v0.0): Boring Rock
+	- 1st Revision (v0.1): Magic Caveman
+	- 2nd Revision (v0.2): Diet Halfling
+	- 3rd Revision (v0.3): Seductive Insect
+	- 4th Revision (v0.4): Supersonic Vampire
 
 ---
 ### Version numbers / nicknames
