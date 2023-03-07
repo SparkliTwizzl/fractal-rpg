@@ -68,9 +68,12 @@ Fix can be omitted if it is 0.
 
 Edition Nickname | Adjective Adjective Noun (Fix Update Revision)
 
-Edition nicknames are independent of revision nicknames, and can be omitted, as all revision nicknames are unique.<br/>
-Revision nicknames follow a pattern, with the revision noun staying consistent across all updates and fixes to that revision (ie, all updates and fixes to a revision called "Cowboy" would retain the word "Cowboy" in their nicknames).<br/>
-The update adjective is changed when an update to a version is published (ie, an update to "Loud Cowboy" might be called "Chaotic Cowboy").<br/>
+Edition nicknames are independent of revision nicknames, and can be omitted, as all revision nicknames are unique.
+
+Revision nicknames follow a pattern, with the revision noun staying consistent across all updates and fixes to that revision (ie, all updates and fixes to a revision called "Cowboy" would retain the word "Cowboy" in their nicknames).
+
+The update adjective is changed when an update to a version is published (ie, an update to "Loud Cowboy" might be called "Chaotic Cowboy").
+
 For simplicity, no fix adjective is given when the fix is 0. If a fix is published for a version, the fix adjective is  changed (ie, a fix to "Loud Cowboy" might be called "Very Loud Cowboy", and an additional fix might be called "Slightly Loud Cowboy").
 
 <h3 align="center">In development</h3>
