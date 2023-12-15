@@ -1,5 +1,5 @@
 
-<div align="center"><image width="300" src="https://raw.github.com/SparkliTwizzl/fractal-rpg/main/logo.png"></div>
+<div align="center"><image width="300" src="./logo.png"></div>
 
 <h1 align="center">Fractal RPG</h1>
 <h3 align="center">An overcomplicated RPG system created by SparkliTwizzl</h3>
